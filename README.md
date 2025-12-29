@@ -186,4 +186,4 @@ public R delete(@RequestBody Long[] ids){
 
 输入图片说明
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
